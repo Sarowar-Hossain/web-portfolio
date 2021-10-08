@@ -73,7 +73,47 @@ section{
 }
 
 .recent-projects{
-    float: left;
-    padding: 5%;
+    padding: 0 10%;
+    background-image: url(images/work-bg.png);
+
 }
+
+.project-1 img{
+    float: left;
+    width: 28%;
+    padding: 2%;
+    
+}
+
+.section-4{
+    background-image: url(images/biography-bg);
+}
+
+.Client{
+    text-align: center;
+}
+
+.name{
+    text-align: center;
+}
+
+.name p{
+    font-size: small;
+}
+
+.phara{
+    text-align: center;
+    padding: 0 20%;
+}
+
+.last-part{
+    text-align: center;
+    background-color: pink;
+    padding: 1px 0px;
+    margin: auto;
+    width: 30%;
+    border-radius: 10px;
+    
+}
+
 
